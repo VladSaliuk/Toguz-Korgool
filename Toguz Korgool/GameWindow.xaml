@@ -76,7 +76,7 @@
         <TextBlock x:Name="Label8" Grid.Row="7" Grid.Column="8" Text="9" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Bold"/>
         <TextBlock x:Name="Label9" Grid.Row="7" Grid.Column="9" Text="9" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Bold"/>
 
-
+        
         <Button x:Name="Button18" Grid.Column="1" Grid.Row="4" Content="Turn" Margin="5, 0" Click="Button18_Click"/>
         <Button x:Name="Button17" Grid.Column="2" Grid.Row="4" Content="Turn" Margin="5, 0" Click="Button17_Click"/>
         <Button x:Name="Button16" Grid.Column="3" Grid.Row="4" Content="Turn" Margin="5, 0" Click="Button16_Click"/>
